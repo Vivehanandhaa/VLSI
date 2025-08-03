@@ -1,5 +1,5 @@
-Specifiaction
-Traffic Light Controller Specification 
+------Specifiaction------
+Traffic Light Controller
 
 1. Purpose:- 
 To control traffic at a four-way intersection by sequencing Green, Yellow, and Red signals for each road in a safe, predictable, and cyclic manner.
@@ -39,3 +39,23 @@ FSM structure should support extensions (e.g., pedestrian signals or emergency o
 Light Pattern for Each State:
 Green State: Selected side Green; others Red.
 Yellow State: Selected side Yellow; others Red.
+
+
+
+
+----Explanation---
+The design consists of three main components:
+
+Traffic Request and Priority State Machine
+1) Monitors traffic requests from four directions (t[3:0]).
+2) Determines which side should receive the next green signal, using a priority scheme based on the last side that was green.
+3) Ensures fair rotation so that no direction is permanently starved.
+
+Timing Controller (Counter)
+1) Generates timing intervals for each selected side.
+2) Keeps the green signal active for 50 cycles and the orange signal active for 5 cycles before switching to the next state.
+3) Produces a control signal (next) to trigger state transitions.
+
+Signal Output Logic
+1) Decodes the current state and timing signals to produce the actual Red (R), Green (G), and Orange (O) outputs.
+2) Ensures that only one side is green or orange at a time, while all others remain red.
