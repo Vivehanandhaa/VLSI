@@ -20,5 +20,3 @@ The second component is the timing controller, implemented as a counter. This co
 The third component is the signal output logic. This block decodes the current state and timing information to drive the actual Red (R), Green (G), and Yellow (O) signals. It ensures that only one side is ever Green or Yellow at a time while all other sides remain Red, thereby maintaining the required safety and operational constraints.
 
 ---
-
-Do you want me to **merge these into a single narrative** (combining specification and explanation into one flowing description), or **keep them as two sections like above**?
