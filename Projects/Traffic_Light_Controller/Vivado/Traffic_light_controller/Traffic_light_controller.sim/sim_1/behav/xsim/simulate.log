@@ -1,0 +1,501 @@
+Time resolution is 1 ps
+T=1000 | t=0001 | Reset=1 | State=xx | Count= x | next=x | g=x | o=x | G=xxxx | O=xxxx | R=xxxx
+T=3000 | t=0001 | Reset=1 | State=00 | Count= 0 | next=0 | g=0 | o=0 | G=0000 | O=0000 | R=1111
+T=5000 | t=0001 | Reset=0 | State=00 | Count= 0 | next=0 | g=0 | o=0 | G=0000 | O=0000 | R=1111
+T=7000 | t=0001 | Reset=0 | State=00 | Count= 1 | next=0 | g=1 | o=0 | G=0001 | O=0000 | R=1110
+T=9000 | t=0001 | Reset=0 | State=00 | Count= 2 | next=0 | g=1 | o=0 | G=0001 | O=0000 | R=1110
+T=11000 | t=0001 | Reset=0 | State=00 | Count= 3 | next=0 | g=1 | o=0 | G=0001 | O=0000 | R=1110
+T=13000 | t=0001 | Reset=0 | State=00 | Count= 4 | next=0 | g=1 | o=0 | G=0001 | O=0000 | R=1110
+T=15000 | t=0001 | Reset=0 | State=00 | Count= 5 | next=0 | g=1 | o=0 | G=0001 | O=0000 | R=1110
+T=17000 | t=0001 | Reset=0 | State=00 | Count= 6 | next=0 | g=1 | o=0 | G=0001 | O=0000 | R=1110
+T=19000 | t=0001 | Reset=0 | State=00 | Count= 7 | next=0 | g=1 | o=0 | G=0001 | O=0000 | R=1110
+T=21000 | t=0001 | Reset=0 | State=00 | Count= 8 | next=0 | g=1 | o=0 | G=0001 | O=0000 | R=1110
+T=23000 | t=0001 | Reset=0 | State=00 | Count= 9 | next=0 | g=1 | o=0 | G=0001 | O=0000 | R=1110
+T=25000 | t=0001 | Reset=0 | State=00 | Count=10 | next=0 | g=1 | o=0 | G=0001 | O=0000 | R=1110
+T=27000 | t=0001 | Reset=0 | State=00 | Count=11 | next=0 | g=1 | o=0 | G=0001 | O=0000 | R=1110
+T=29000 | t=0001 | Reset=0 | State=00 | Count=12 | next=0 | g=1 | o=0 | G=0001 | O=0000 | R=1110
+T=31000 | t=0001 | Reset=0 | State=00 | Count=13 | next=0 | g=1 | o=0 | G=0001 | O=0000 | R=1110
+T=33000 | t=0001 | Reset=0 | State=00 | Count=14 | next=0 | g=1 | o=0 | G=0001 | O=0000 | R=1110
+T=35000 | t=0001 | Reset=0 | State=00 | Count=15 | next=0 | g=1 | o=0 | G=0001 | O=0000 | R=1110
+T=37000 | t=0001 | Reset=0 | State=00 | Count=16 | next=0 | g=1 | o=0 | G=0001 | O=0000 | R=1110
+T=39000 | t=0001 | Reset=0 | State=00 | Count=17 | next=0 | g=1 | o=0 | G=0001 | O=0000 | R=1110
+T=41000 | t=0001 | Reset=0 | State=00 | Count=18 | next=0 | g=1 | o=0 | G=0001 | O=0000 | R=1110
+T=43000 | t=0001 | Reset=0 | State=00 | Count=19 | next=0 | g=1 | o=0 | G=0001 | O=0000 | R=1110
+T=45000 | t=0001 | Reset=0 | State=00 | Count=20 | next=0 | g=1 | o=0 | G=0001 | O=0000 | R=1110
+T=47000 | t=0001 | Reset=0 | State=00 | Count=21 | next=0 | g=1 | o=0 | G=0001 | O=0000 | R=1110
+T=49000 | t=0001 | Reset=0 | State=00 | Count=22 | next=0 | g=1 | o=0 | G=0001 | O=0000 | R=1110
+T=51000 | t=0001 | Reset=0 | State=00 | Count=23 | next=0 | g=1 | o=0 | G=0001 | O=0000 | R=1110
+T=53000 | t=0001 | Reset=0 | State=00 | Count=24 | next=0 | g=1 | o=0 | G=0001 | O=0000 | R=1110
+T=55000 | t=0001 | Reset=0 | State=00 | Count=25 | next=0 | g=1 | o=0 | G=0001 | O=0000 | R=1110
+T=57000 | t=0001 | Reset=0 | State=00 | Count=26 | next=0 | g=1 | o=0 | G=0001 | O=0000 | R=1110
+T=59000 | t=0001 | Reset=0 | State=00 | Count=27 | next=0 | g=1 | o=0 | G=0001 | O=0000 | R=1110
+T=61000 | t=0001 | Reset=0 | State=00 | Count=28 | next=0 | g=1 | o=0 | G=0001 | O=0000 | R=1110
+T=63000 | t=0001 | Reset=0 | State=00 | Count=29 | next=0 | g=1 | o=0 | G=0001 | O=0000 | R=1110
+T=65000 | t=0001 | Reset=0 | State=00 | Count=30 | next=0 | g=1 | o=0 | G=0001 | O=0000 | R=1110
+T=67000 | t=0001 | Reset=0 | State=00 | Count=31 | next=0 | g=1 | o=0 | G=0001 | O=0000 | R=1110
+T=69000 | t=0001 | Reset=0 | State=00 | Count=32 | next=0 | g=1 | o=0 | G=0001 | O=0000 | R=1110
+T=71000 | t=0001 | Reset=0 | State=00 | Count=33 | next=0 | g=1 | o=0 | G=0001 | O=0000 | R=1110
+T=73000 | t=0001 | Reset=0 | State=00 | Count=34 | next=0 | g=1 | o=0 | G=0001 | O=0000 | R=1110
+T=75000 | t=0001 | Reset=0 | State=00 | Count=35 | next=0 | g=1 | o=0 | G=0001 | O=0000 | R=1110
+T=77000 | t=0001 | Reset=0 | State=00 | Count=36 | next=0 | g=1 | o=0 | G=0001 | O=0000 | R=1110
+T=79000 | t=0001 | Reset=0 | State=00 | Count=37 | next=0 | g=1 | o=0 | G=0001 | O=0000 | R=1110
+T=81000 | t=0001 | Reset=0 | State=00 | Count=38 | next=0 | g=1 | o=0 | G=0001 | O=0000 | R=1110
+T=83000 | t=0001 | Reset=0 | State=00 | Count=39 | next=0 | g=1 | o=0 | G=0001 | O=0000 | R=1110
+T=85000 | t=0001 | Reset=0 | State=00 | Count=40 | next=0 | g=1 | o=0 | G=0001 | O=0000 | R=1110
+T=87000 | t=0001 | Reset=0 | State=00 | Count=41 | next=0 | g=1 | o=0 | G=0001 | O=0000 | R=1110
+T=89000 | t=0001 | Reset=0 | State=00 | Count=42 | next=0 | g=1 | o=0 | G=0001 | O=0000 | R=1110
+T=91000 | t=0001 | Reset=0 | State=00 | Count=43 | next=0 | g=1 | o=0 | G=0001 | O=0000 | R=1110
+T=93000 | t=0001 | Reset=0 | State=00 | Count=44 | next=0 | g=1 | o=0 | G=0001 | O=0000 | R=1110
+T=95000 | t=0001 | Reset=0 | State=00 | Count=45 | next=0 | g=1 | o=0 | G=0001 | O=0000 | R=1110
+T=97000 | t=0001 | Reset=0 | State=00 | Count=46 | next=0 | g=1 | o=0 | G=0001 | O=0000 | R=1110
+T=99000 | t=0001 | Reset=0 | State=00 | Count=47 | next=0 | g=1 | o=0 | G=0001 | O=0000 | R=1110
+T=101000 | t=0001 | Reset=0 | State=00 | Count=48 | next=0 | g=1 | o=0 | G=0001 | O=0000 | R=1110
+T=103000 | t=0001 | Reset=0 | State=00 | Count=49 | next=0 | g=1 | o=0 | G=0001 | O=0000 | R=1110
+T=105000 | t=0001 | Reset=0 | State=00 | Count=50 | next=0 | g=1 | o=0 | G=0001 | O=0000 | R=1110
+T=107000 | t=0001 | Reset=0 | State=00 | Count=51 | next=0 | g=0 | o=1 | G=0000 | O=0001 | R=1110
+T=109000 | t=0001 | Reset=0 | State=00 | Count=52 | next=0 | g=0 | o=1 | G=0000 | O=0001 | R=1110
+T=111000 | t=0001 | Reset=0 | State=00 | Count=53 | next=0 | g=0 | o=1 | G=0000 | O=0001 | R=1110
+T=113000 | t=0001 | Reset=0 | State=00 | Count=54 | next=0 | g=0 | o=1 | G=0000 | O=0001 | R=1110
+T=115000 | t=1110 | Reset=0 | State=00 | Count=55 | next=0 | g=0 | o=1 | G=0000 | O=0001 | R=1110
+T=117000 | t=1110 | Reset=0 | State=00 | Count= 0 | next=1 | g=1 | o=0 | G=0001 | O=0000 | R=1110
+T=119000 | t=1110 | Reset=0 | State=01 | Count= 1 | next=0 | g=1 | o=0 | G=0010 | O=0000 | R=1101
+T=121000 | t=1110 | Reset=0 | State=01 | Count= 2 | next=0 | g=1 | o=0 | G=0010 | O=0000 | R=1101
+T=123000 | t=1110 | Reset=0 | State=01 | Count= 3 | next=0 | g=1 | o=0 | G=0010 | O=0000 | R=1101
+T=125000 | t=1110 | Reset=0 | State=01 | Count= 4 | next=0 | g=1 | o=0 | G=0010 | O=0000 | R=1101
+T=127000 | t=1110 | Reset=0 | State=01 | Count= 5 | next=0 | g=1 | o=0 | G=0010 | O=0000 | R=1101
+T=129000 | t=1110 | Reset=0 | State=01 | Count= 6 | next=0 | g=1 | o=0 | G=0010 | O=0000 | R=1101
+T=131000 | t=1110 | Reset=0 | State=01 | Count= 7 | next=0 | g=1 | o=0 | G=0010 | O=0000 | R=1101
+T=133000 | t=1110 | Reset=0 | State=01 | Count= 8 | next=0 | g=1 | o=0 | G=0010 | O=0000 | R=1101
+T=135000 | t=1110 | Reset=0 | State=01 | Count= 9 | next=0 | g=1 | o=0 | G=0010 | O=0000 | R=1101
+T=137000 | t=1110 | Reset=0 | State=01 | Count=10 | next=0 | g=1 | o=0 | G=0010 | O=0000 | R=1101
+T=139000 | t=1110 | Reset=0 | State=01 | Count=11 | next=0 | g=1 | o=0 | G=0010 | O=0000 | R=1101
+T=141000 | t=1110 | Reset=0 | State=01 | Count=12 | next=0 | g=1 | o=0 | G=0010 | O=0000 | R=1101
+T=143000 | t=1110 | Reset=0 | State=01 | Count=13 | next=0 | g=1 | o=0 | G=0010 | O=0000 | R=1101
+T=145000 | t=1110 | Reset=0 | State=01 | Count=14 | next=0 | g=1 | o=0 | G=0010 | O=0000 | R=1101
+T=147000 | t=1110 | Reset=0 | State=01 | Count=15 | next=0 | g=1 | o=0 | G=0010 | O=0000 | R=1101
+T=149000 | t=1110 | Reset=0 | State=01 | Count=16 | next=0 | g=1 | o=0 | G=0010 | O=0000 | R=1101
+T=151000 | t=1110 | Reset=0 | State=01 | Count=17 | next=0 | g=1 | o=0 | G=0010 | O=0000 | R=1101
+T=153000 | t=1110 | Reset=0 | State=01 | Count=18 | next=0 | g=1 | o=0 | G=0010 | O=0000 | R=1101
+T=155000 | t=1110 | Reset=0 | State=01 | Count=19 | next=0 | g=1 | o=0 | G=0010 | O=0000 | R=1101
+T=157000 | t=1110 | Reset=0 | State=01 | Count=20 | next=0 | g=1 | o=0 | G=0010 | O=0000 | R=1101
+T=159000 | t=1110 | Reset=0 | State=01 | Count=21 | next=0 | g=1 | o=0 | G=0010 | O=0000 | R=1101
+T=161000 | t=1110 | Reset=0 | State=01 | Count=22 | next=0 | g=1 | o=0 | G=0010 | O=0000 | R=1101
+T=163000 | t=1110 | Reset=0 | State=01 | Count=23 | next=0 | g=1 | o=0 | G=0010 | O=0000 | R=1101
+T=165000 | t=1110 | Reset=0 | State=01 | Count=24 | next=0 | g=1 | o=0 | G=0010 | O=0000 | R=1101
+T=167000 | t=1110 | Reset=0 | State=01 | Count=25 | next=0 | g=1 | o=0 | G=0010 | O=0000 | R=1101
+T=169000 | t=1110 | Reset=0 | State=01 | Count=26 | next=0 | g=1 | o=0 | G=0010 | O=0000 | R=1101
+T=171000 | t=1110 | Reset=0 | State=01 | Count=27 | next=0 | g=1 | o=0 | G=0010 | O=0000 | R=1101
+T=173000 | t=1110 | Reset=0 | State=01 | Count=28 | next=0 | g=1 | o=0 | G=0010 | O=0000 | R=1101
+T=175000 | t=1110 | Reset=0 | State=01 | Count=29 | next=0 | g=1 | o=0 | G=0010 | O=0000 | R=1101
+T=177000 | t=1110 | Reset=0 | State=01 | Count=30 | next=0 | g=1 | o=0 | G=0010 | O=0000 | R=1101
+T=179000 | t=1110 | Reset=0 | State=01 | Count=31 | next=0 | g=1 | o=0 | G=0010 | O=0000 | R=1101
+T=181000 | t=1110 | Reset=0 | State=01 | Count=32 | next=0 | g=1 | o=0 | G=0010 | O=0000 | R=1101
+T=183000 | t=1110 | Reset=0 | State=01 | Count=33 | next=0 | g=1 | o=0 | G=0010 | O=0000 | R=1101
+T=185000 | t=1110 | Reset=0 | State=01 | Count=34 | next=0 | g=1 | o=0 | G=0010 | O=0000 | R=1101
+T=187000 | t=1110 | Reset=0 | State=01 | Count=35 | next=0 | g=1 | o=0 | G=0010 | O=0000 | R=1101
+T=189000 | t=1110 | Reset=0 | State=01 | Count=36 | next=0 | g=1 | o=0 | G=0010 | O=0000 | R=1101
+T=191000 | t=1110 | Reset=0 | State=01 | Count=37 | next=0 | g=1 | o=0 | G=0010 | O=0000 | R=1101
+T=193000 | t=1110 | Reset=0 | State=01 | Count=38 | next=0 | g=1 | o=0 | G=0010 | O=0000 | R=1101
+T=195000 | t=1110 | Reset=0 | State=01 | Count=39 | next=0 | g=1 | o=0 | G=0010 | O=0000 | R=1101
+T=197000 | t=1110 | Reset=0 | State=01 | Count=40 | next=0 | g=1 | o=0 | G=0010 | O=0000 | R=1101
+T=199000 | t=1110 | Reset=0 | State=01 | Count=41 | next=0 | g=1 | o=0 | G=0010 | O=0000 | R=1101
+T=201000 | t=1110 | Reset=0 | State=01 | Count=42 | next=0 | g=1 | o=0 | G=0010 | O=0000 | R=1101
+T=203000 | t=1110 | Reset=0 | State=01 | Count=43 | next=0 | g=1 | o=0 | G=0010 | O=0000 | R=1101
+T=205000 | t=1110 | Reset=0 | State=01 | Count=44 | next=0 | g=1 | o=0 | G=0010 | O=0000 | R=1101
+T=207000 | t=1110 | Reset=0 | State=01 | Count=45 | next=0 | g=1 | o=0 | G=0010 | O=0000 | R=1101
+T=209000 | t=1110 | Reset=0 | State=01 | Count=46 | next=0 | g=1 | o=0 | G=0010 | O=0000 | R=1101
+T=211000 | t=1110 | Reset=0 | State=01 | Count=47 | next=0 | g=1 | o=0 | G=0010 | O=0000 | R=1101
+T=213000 | t=1110 | Reset=0 | State=01 | Count=48 | next=0 | g=1 | o=0 | G=0010 | O=0000 | R=1101
+T=215000 | t=1110 | Reset=0 | State=01 | Count=49 | next=0 | g=1 | o=0 | G=0010 | O=0000 | R=1101
+T=217000 | t=1110 | Reset=0 | State=01 | Count=50 | next=0 | g=1 | o=0 | G=0010 | O=0000 | R=1101
+T=219000 | t=1110 | Reset=0 | State=01 | Count=51 | next=0 | g=0 | o=1 | G=0000 | O=0010 | R=1101
+T=221000 | t=1110 | Reset=0 | State=01 | Count=52 | next=0 | g=0 | o=1 | G=0000 | O=0010 | R=1101
+T=223000 | t=1110 | Reset=0 | State=01 | Count=53 | next=0 | g=0 | o=1 | G=0000 | O=0010 | R=1101
+T=225000 | t=1110 | Reset=0 | State=01 | Count=54 | next=0 | g=0 | o=1 | G=0000 | O=0010 | R=1101
+T=227000 | t=1110 | Reset=0 | State=01 | Count=55 | next=0 | g=0 | o=1 | G=0000 | O=0010 | R=1101
+T=229000 | t=1110 | Reset=0 | State=01 | Count= 0 | next=1 | g=1 | o=0 | G=0010 | O=0000 | R=1101
+T=231000 | t=1110 | Reset=0 | State=10 | Count= 1 | next=0 | g=1 | o=0 | G=0100 | O=0000 | R=1011
+T=233000 | t=1110 | Reset=0 | State=10 | Count= 2 | next=0 | g=1 | o=0 | G=0100 | O=0000 | R=1011
+T=235000 | t=1110 | Reset=0 | State=10 | Count= 3 | next=0 | g=1 | o=0 | G=0100 | O=0000 | R=1011
+T=237000 | t=1110 | Reset=0 | State=10 | Count= 4 | next=0 | g=1 | o=0 | G=0100 | O=0000 | R=1011
+T=239000 | t=1110 | Reset=0 | State=10 | Count= 5 | next=0 | g=1 | o=0 | G=0100 | O=0000 | R=1011
+T=241000 | t=1110 | Reset=0 | State=10 | Count= 6 | next=0 | g=1 | o=0 | G=0100 | O=0000 | R=1011
+T=243000 | t=1110 | Reset=0 | State=10 | Count= 7 | next=0 | g=1 | o=0 | G=0100 | O=0000 | R=1011
+T=245000 | t=1110 | Reset=0 | State=10 | Count= 8 | next=0 | g=1 | o=0 | G=0100 | O=0000 | R=1011
+T=247000 | t=1110 | Reset=0 | State=10 | Count= 9 | next=0 | g=1 | o=0 | G=0100 | O=0000 | R=1011
+T=249000 | t=1110 | Reset=0 | State=10 | Count=10 | next=0 | g=1 | o=0 | G=0100 | O=0000 | R=1011
+T=251000 | t=0101 | Reset=0 | State=10 | Count=11 | next=0 | g=1 | o=0 | G=0100 | O=0000 | R=1011
+T=253000 | t=0101 | Reset=0 | State=10 | Count=12 | next=0 | g=1 | o=0 | G=0100 | O=0000 | R=1011
+T=255000 | t=0101 | Reset=0 | State=10 | Count=13 | next=0 | g=1 | o=0 | G=0100 | O=0000 | R=1011
+T=257000 | t=0101 | Reset=0 | State=10 | Count=14 | next=0 | g=1 | o=0 | G=0100 | O=0000 | R=1011
+T=259000 | t=0101 | Reset=0 | State=10 | Count=15 | next=0 | g=1 | o=0 | G=0100 | O=0000 | R=1011
+T=261000 | t=0101 | Reset=0 | State=10 | Count=16 | next=0 | g=1 | o=0 | G=0100 | O=0000 | R=1011
+T=263000 | t=0101 | Reset=0 | State=10 | Count=17 | next=0 | g=1 | o=0 | G=0100 | O=0000 | R=1011
+T=265000 | t=0101 | Reset=0 | State=10 | Count=18 | next=0 | g=1 | o=0 | G=0100 | O=0000 | R=1011
+T=267000 | t=0101 | Reset=0 | State=10 | Count=19 | next=0 | g=1 | o=0 | G=0100 | O=0000 | R=1011
+T=269000 | t=0101 | Reset=0 | State=10 | Count=20 | next=0 | g=1 | o=0 | G=0100 | O=0000 | R=1011
+T=271000 | t=0101 | Reset=0 | State=10 | Count=21 | next=0 | g=1 | o=0 | G=0100 | O=0000 | R=1011
+T=273000 | t=0101 | Reset=0 | State=10 | Count=22 | next=0 | g=1 | o=0 | G=0100 | O=0000 | R=1011
+T=275000 | t=0101 | Reset=0 | State=10 | Count=23 | next=0 | g=1 | o=0 | G=0100 | O=0000 | R=1011
+T=277000 | t=0101 | Reset=0 | State=10 | Count=24 | next=0 | g=1 | o=0 | G=0100 | O=0000 | R=1011
+T=279000 | t=0101 | Reset=0 | State=10 | Count=25 | next=0 | g=1 | o=0 | G=0100 | O=0000 | R=1011
+T=281000 | t=0101 | Reset=0 | State=10 | Count=26 | next=0 | g=1 | o=0 | G=0100 | O=0000 | R=1011
+T=283000 | t=0101 | Reset=0 | State=10 | Count=27 | next=0 | g=1 | o=0 | G=0100 | O=0000 | R=1011
+T=285000 | t=0101 | Reset=0 | State=10 | Count=28 | next=0 | g=1 | o=0 | G=0100 | O=0000 | R=1011
+T=287000 | t=0101 | Reset=0 | State=10 | Count=29 | next=0 | g=1 | o=0 | G=0100 | O=0000 | R=1011
+T=289000 | t=0101 | Reset=0 | State=10 | Count=30 | next=0 | g=1 | o=0 | G=0100 | O=0000 | R=1011
+T=291000 | t=0101 | Reset=0 | State=10 | Count=31 | next=0 | g=1 | o=0 | G=0100 | O=0000 | R=1011
+T=293000 | t=0101 | Reset=0 | State=10 | Count=32 | next=0 | g=1 | o=0 | G=0100 | O=0000 | R=1011
+T=295000 | t=0101 | Reset=0 | State=10 | Count=33 | next=0 | g=1 | o=0 | G=0100 | O=0000 | R=1011
+T=297000 | t=0101 | Reset=0 | State=10 | Count=34 | next=0 | g=1 | o=0 | G=0100 | O=0000 | R=1011
+T=299000 | t=0101 | Reset=0 | State=10 | Count=35 | next=0 | g=1 | o=0 | G=0100 | O=0000 | R=1011
+T=301000 | t=0101 | Reset=0 | State=10 | Count=36 | next=0 | g=1 | o=0 | G=0100 | O=0000 | R=1011
+T=303000 | t=0101 | Reset=0 | State=10 | Count=37 | next=0 | g=1 | o=0 | G=0100 | O=0000 | R=1011
+T=305000 | t=0101 | Reset=0 | State=10 | Count=38 | next=0 | g=1 | o=0 | G=0100 | O=0000 | R=1011
+T=307000 | t=0101 | Reset=0 | State=10 | Count=39 | next=0 | g=1 | o=0 | G=0100 | O=0000 | R=1011
+T=309000 | t=0101 | Reset=0 | State=10 | Count=40 | next=0 | g=1 | o=0 | G=0100 | O=0000 | R=1011
+T=311000 | t=0101 | Reset=0 | State=10 | Count=41 | next=0 | g=1 | o=0 | G=0100 | O=0000 | R=1011
+T=313000 | t=0101 | Reset=0 | State=10 | Count=42 | next=0 | g=1 | o=0 | G=0100 | O=0000 | R=1011
+T=315000 | t=0101 | Reset=0 | State=10 | Count=43 | next=0 | g=1 | o=0 | G=0100 | O=0000 | R=1011
+T=317000 | t=0101 | Reset=0 | State=10 | Count=44 | next=0 | g=1 | o=0 | G=0100 | O=0000 | R=1011
+T=319000 | t=0101 | Reset=0 | State=10 | Count=45 | next=0 | g=1 | o=0 | G=0100 | O=0000 | R=1011
+T=321000 | t=0101 | Reset=0 | State=10 | Count=46 | next=0 | g=1 | o=0 | G=0100 | O=0000 | R=1011
+T=323000 | t=0101 | Reset=0 | State=10 | Count=47 | next=0 | g=1 | o=0 | G=0100 | O=0000 | R=1011
+T=325000 | t=0101 | Reset=0 | State=10 | Count=48 | next=0 | g=1 | o=0 | G=0100 | O=0000 | R=1011
+T=327000 | t=0101 | Reset=0 | State=10 | Count=49 | next=0 | g=1 | o=0 | G=0100 | O=0000 | R=1011
+T=329000 | t=0101 | Reset=0 | State=10 | Count=50 | next=0 | g=1 | o=0 | G=0100 | O=0000 | R=1011
+T=331000 | t=0101 | Reset=0 | State=10 | Count=51 | next=0 | g=0 | o=1 | G=0000 | O=0100 | R=1011
+T=333000 | t=0101 | Reset=0 | State=10 | Count=52 | next=0 | g=0 | o=1 | G=0000 | O=0100 | R=1011
+T=335000 | t=0101 | Reset=0 | State=10 | Count=53 | next=0 | g=0 | o=1 | G=0000 | O=0100 | R=1011
+T=337000 | t=0101 | Reset=0 | State=10 | Count=54 | next=0 | g=0 | o=1 | G=0000 | O=0100 | R=1011
+T=339000 | t=0101 | Reset=0 | State=10 | Count=55 | next=0 | g=0 | o=1 | G=0000 | O=0100 | R=1011
+T=341000 | t=0101 | Reset=0 | State=10 | Count= 0 | next=1 | g=1 | o=0 | G=0100 | O=0000 | R=1011
+T=343000 | t=0101 | Reset=0 | State=00 | Count= 1 | next=0 | g=1 | o=0 | G=0001 | O=0000 | R=1110
+T=345000 | t=0101 | Reset=0 | State=00 | Count= 2 | next=0 | g=1 | o=0 | G=0001 | O=0000 | R=1110
+T=347000 | t=0101 | Reset=0 | State=00 | Count= 3 | next=0 | g=1 | o=0 | G=0001 | O=0000 | R=1110
+T=349000 | t=0101 | Reset=0 | State=00 | Count= 4 | next=0 | g=1 | o=0 | G=0001 | O=0000 | R=1110
+T=351000 | t=0101 | Reset=0 | State=00 | Count= 5 | next=0 | g=1 | o=0 | G=0001 | O=0000 | R=1110
+T=353000 | t=0101 | Reset=0 | State=00 | Count= 6 | next=0 | g=1 | o=0 | G=0001 | O=0000 | R=1110
+T=355000 | t=0101 | Reset=0 | State=00 | Count= 7 | next=0 | g=1 | o=0 | G=0001 | O=0000 | R=1110
+T=357000 | t=0101 | Reset=0 | State=00 | Count= 8 | next=0 | g=1 | o=0 | G=0001 | O=0000 | R=1110
+T=359000 | t=0101 | Reset=0 | State=00 | Count= 9 | next=0 | g=1 | o=0 | G=0001 | O=0000 | R=1110
+T=361000 | t=0101 | Reset=0 | State=00 | Count=10 | next=0 | g=1 | o=0 | G=0001 | O=0000 | R=1110
+T=363000 | t=0101 | Reset=0 | State=00 | Count=11 | next=0 | g=1 | o=0 | G=0001 | O=0000 | R=1110
+T=365000 | t=0101 | Reset=0 | State=00 | Count=12 | next=0 | g=1 | o=0 | G=0001 | O=0000 | R=1110
+T=367000 | t=0101 | Reset=0 | State=00 | Count=13 | next=0 | g=1 | o=0 | G=0001 | O=0000 | R=1110
+T=369000 | t=0101 | Reset=0 | State=00 | Count=14 | next=0 | g=1 | o=0 | G=0001 | O=0000 | R=1110
+T=371000 | t=0101 | Reset=0 | State=00 | Count=15 | next=0 | g=1 | o=0 | G=0001 | O=0000 | R=1110
+T=373000 | t=0101 | Reset=0 | State=00 | Count=16 | next=0 | g=1 | o=0 | G=0001 | O=0000 | R=1110
+T=375000 | t=0101 | Reset=0 | State=00 | Count=17 | next=0 | g=1 | o=0 | G=0001 | O=0000 | R=1110
+T=377000 | t=0101 | Reset=0 | State=00 | Count=18 | next=0 | g=1 | o=0 | G=0001 | O=0000 | R=1110
+T=379000 | t=0101 | Reset=0 | State=00 | Count=19 | next=0 | g=1 | o=0 | G=0001 | O=0000 | R=1110
+T=381000 | t=0101 | Reset=0 | State=00 | Count=20 | next=0 | g=1 | o=0 | G=0001 | O=0000 | R=1110
+T=383000 | t=0101 | Reset=0 | State=00 | Count=21 | next=0 | g=1 | o=0 | G=0001 | O=0000 | R=1110
+T=385000 | t=0101 | Reset=0 | State=00 | Count=22 | next=0 | g=1 | o=0 | G=0001 | O=0000 | R=1110
+T=387000 | t=0101 | Reset=0 | State=00 | Count=23 | next=0 | g=1 | o=0 | G=0001 | O=0000 | R=1110
+T=389000 | t=0101 | Reset=0 | State=00 | Count=24 | next=0 | g=1 | o=0 | G=0001 | O=0000 | R=1110
+T=391000 | t=0101 | Reset=0 | State=00 | Count=25 | next=0 | g=1 | o=0 | G=0001 | O=0000 | R=1110
+T=393000 | t=0101 | Reset=0 | State=00 | Count=26 | next=0 | g=1 | o=0 | G=0001 | O=0000 | R=1110
+T=395000 | t=0101 | Reset=0 | State=00 | Count=27 | next=0 | g=1 | o=0 | G=0001 | O=0000 | R=1110
+T=397000 | t=0101 | Reset=0 | State=00 | Count=28 | next=0 | g=1 | o=0 | G=0001 | O=0000 | R=1110
+T=399000 | t=0101 | Reset=0 | State=00 | Count=29 | next=0 | g=1 | o=0 | G=0001 | O=0000 | R=1110
+T=401000 | t=0101 | Reset=0 | State=00 | Count=30 | next=0 | g=1 | o=0 | G=0001 | O=0000 | R=1110
+T=403000 | t=0101 | Reset=0 | State=00 | Count=31 | next=0 | g=1 | o=0 | G=0001 | O=0000 | R=1110
+T=405000 | t=0101 | Reset=0 | State=00 | Count=32 | next=0 | g=1 | o=0 | G=0001 | O=0000 | R=1110
+T=407000 | t=0101 | Reset=0 | State=00 | Count=33 | next=0 | g=1 | o=0 | G=0001 | O=0000 | R=1110
+T=409000 | t=0101 | Reset=0 | State=00 | Count=34 | next=0 | g=1 | o=0 | G=0001 | O=0000 | R=1110
+T=411000 | t=0101 | Reset=0 | State=00 | Count=35 | next=0 | g=1 | o=0 | G=0001 | O=0000 | R=1110
+T=413000 | t=0101 | Reset=0 | State=00 | Count=36 | next=0 | g=1 | o=0 | G=0001 | O=0000 | R=1110
+T=415000 | t=0101 | Reset=0 | State=00 | Count=37 | next=0 | g=1 | o=0 | G=0001 | O=0000 | R=1110
+T=417000 | t=0101 | Reset=0 | State=00 | Count=38 | next=0 | g=1 | o=0 | G=0001 | O=0000 | R=1110
+T=419000 | t=0101 | Reset=0 | State=00 | Count=39 | next=0 | g=1 | o=0 | G=0001 | O=0000 | R=1110
+T=421000 | t=0101 | Reset=0 | State=00 | Count=40 | next=0 | g=1 | o=0 | G=0001 | O=0000 | R=1110
+T=423000 | t=0101 | Reset=0 | State=00 | Count=41 | next=0 | g=1 | o=0 | G=0001 | O=0000 | R=1110
+T=425000 | t=0101 | Reset=0 | State=00 | Count=42 | next=0 | g=1 | o=0 | G=0001 | O=0000 | R=1110
+T=427000 | t=0101 | Reset=0 | State=00 | Count=43 | next=0 | g=1 | o=0 | G=0001 | O=0000 | R=1110
+T=429000 | t=0101 | Reset=0 | State=00 | Count=44 | next=0 | g=1 | o=0 | G=0001 | O=0000 | R=1110
+T=431000 | t=0101 | Reset=0 | State=00 | Count=45 | next=0 | g=1 | o=0 | G=0001 | O=0000 | R=1110
+T=433000 | t=0101 | Reset=0 | State=00 | Count=46 | next=0 | g=1 | o=0 | G=0001 | O=0000 | R=1110
+T=435000 | t=0101 | Reset=0 | State=00 | Count=47 | next=0 | g=1 | o=0 | G=0001 | O=0000 | R=1110
+T=437000 | t=0101 | Reset=0 | State=00 | Count=48 | next=0 | g=1 | o=0 | G=0001 | O=0000 | R=1110
+T=439000 | t=0101 | Reset=0 | State=00 | Count=49 | next=0 | g=1 | o=0 | G=0001 | O=0000 | R=1110
+T=441000 | t=1110 | Reset=0 | State=00 | Count=50 | next=0 | g=1 | o=0 | G=0001 | O=0000 | R=1110
+T=443000 | t=1110 | Reset=0 | State=00 | Count=51 | next=0 | g=0 | o=1 | G=0000 | O=0001 | R=1110
+T=445000 | t=1110 | Reset=0 | State=00 | Count=52 | next=0 | g=0 | o=1 | G=0000 | O=0001 | R=1110
+T=447000 | t=1110 | Reset=0 | State=00 | Count=53 | next=0 | g=0 | o=1 | G=0000 | O=0001 | R=1110
+T=449000 | t=1110 | Reset=0 | State=00 | Count=54 | next=0 | g=0 | o=1 | G=0000 | O=0001 | R=1110
+T=451000 | t=1110 | Reset=0 | State=00 | Count=55 | next=0 | g=0 | o=1 | G=0000 | O=0001 | R=1110
+T=453000 | t=1110 | Reset=0 | State=00 | Count= 0 | next=1 | g=1 | o=0 | G=0001 | O=0000 | R=1110
+T=455000 | t=1110 | Reset=0 | State=01 | Count= 1 | next=0 | g=1 | o=0 | G=0010 | O=0000 | R=1101
+T=457000 | t=1110 | Reset=0 | State=01 | Count= 2 | next=0 | g=1 | o=0 | G=0010 | O=0000 | R=1101
+T=459000 | t=1110 | Reset=0 | State=01 | Count= 3 | next=0 | g=1 | o=0 | G=0010 | O=0000 | R=1101
+T=461000 | t=1110 | Reset=0 | State=01 | Count= 4 | next=0 | g=1 | o=0 | G=0010 | O=0000 | R=1101
+T=463000 | t=1110 | Reset=0 | State=01 | Count= 5 | next=0 | g=1 | o=0 | G=0010 | O=0000 | R=1101
+T=465000 | t=1110 | Reset=0 | State=01 | Count= 6 | next=0 | g=1 | o=0 | G=0010 | O=0000 | R=1101
+T=467000 | t=1110 | Reset=0 | State=01 | Count= 7 | next=0 | g=1 | o=0 | G=0010 | O=0000 | R=1101
+T=469000 | t=1110 | Reset=0 | State=01 | Count= 8 | next=0 | g=1 | o=0 | G=0010 | O=0000 | R=1101
+T=471000 | t=1110 | Reset=0 | State=01 | Count= 9 | next=0 | g=1 | o=0 | G=0010 | O=0000 | R=1101
+T=473000 | t=1110 | Reset=0 | State=01 | Count=10 | next=0 | g=1 | o=0 | G=0010 | O=0000 | R=1101
+T=475000 | t=1110 | Reset=0 | State=01 | Count=11 | next=0 | g=1 | o=0 | G=0010 | O=0000 | R=1101
+T=477000 | t=1110 | Reset=0 | State=01 | Count=12 | next=0 | g=1 | o=0 | G=0010 | O=0000 | R=1101
+T=479000 | t=1110 | Reset=0 | State=01 | Count=13 | next=0 | g=1 | o=0 | G=0010 | O=0000 | R=1101
+T=481000 | t=1110 | Reset=0 | State=01 | Count=14 | next=0 | g=1 | o=0 | G=0010 | O=0000 | R=1101
+T=483000 | t=1110 | Reset=0 | State=01 | Count=15 | next=0 | g=1 | o=0 | G=0010 | O=0000 | R=1101
+T=485000 | t=1110 | Reset=0 | State=01 | Count=16 | next=0 | g=1 | o=0 | G=0010 | O=0000 | R=1101
+T=487000 | t=1110 | Reset=0 | State=01 | Count=17 | next=0 | g=1 | o=0 | G=0010 | O=0000 | R=1101
+T=489000 | t=1110 | Reset=0 | State=01 | Count=18 | next=0 | g=1 | o=0 | G=0010 | O=0000 | R=1101
+T=491000 | t=1110 | Reset=0 | State=01 | Count=19 | next=0 | g=1 | o=0 | G=0010 | O=0000 | R=1101
+T=493000 | t=1110 | Reset=0 | State=01 | Count=20 | next=0 | g=1 | o=0 | G=0010 | O=0000 | R=1101
+T=495000 | t=1110 | Reset=0 | State=01 | Count=21 | next=0 | g=1 | o=0 | G=0010 | O=0000 | R=1101
+T=497000 | t=1110 | Reset=0 | State=01 | Count=22 | next=0 | g=1 | o=0 | G=0010 | O=0000 | R=1101
+T=499000 | t=1110 | Reset=0 | State=01 | Count=23 | next=0 | g=1 | o=0 | G=0010 | O=0000 | R=1101
+T=501000 | t=1110 | Reset=1 | State=01 | Count=24 | next=0 | g=1 | o=0 | G=0010 | O=0000 | R=1101
+T=503000 | t=1110 | Reset=1 | State=00 | Count= 0 | next=0 | g=0 | o=0 | G=0000 | O=0000 | R=1111
+T=505000 | t=1110 | Reset=1 | State=00 | Count= 0 | next=0 | g=0 | o=0 | G=0000 | O=0000 | R=1111
+T=507000 | t=1110 | Reset=1 | State=00 | Count= 0 | next=0 | g=0 | o=0 | G=0000 | O=0000 | R=1111
+T=509000 | t=1110 | Reset=1 | State=00 | Count= 0 | next=0 | g=0 | o=0 | G=0000 | O=0000 | R=1111
+T=511000 | t=1110 | Reset=0 | State=00 | Count= 0 | next=0 | g=0 | o=0 | G=0000 | O=0000 | R=1111
+T=513000 | t=1110 | Reset=0 | State=00 | Count= 1 | next=0 | g=1 | o=0 | G=0001 | O=0000 | R=1110
+T=515000 | t=1110 | Reset=0 | State=00 | Count= 2 | next=0 | g=1 | o=0 | G=0001 | O=0000 | R=1110
+T=517000 | t=1110 | Reset=0 | State=00 | Count= 3 | next=0 | g=1 | o=0 | G=0001 | O=0000 | R=1110
+T=519000 | t=1110 | Reset=0 | State=00 | Count= 4 | next=0 | g=1 | o=0 | G=0001 | O=0000 | R=1110
+T=521000 | t=1110 | Reset=0 | State=00 | Count= 5 | next=0 | g=1 | o=0 | G=0001 | O=0000 | R=1110
+T=523000 | t=1110 | Reset=0 | State=00 | Count= 6 | next=0 | g=1 | o=0 | G=0001 | O=0000 | R=1110
+T=525000 | t=1110 | Reset=0 | State=00 | Count= 7 | next=0 | g=1 | o=0 | G=0001 | O=0000 | R=1110
+T=527000 | t=1110 | Reset=0 | State=00 | Count= 8 | next=0 | g=1 | o=0 | G=0001 | O=0000 | R=1110
+T=529000 | t=1110 | Reset=0 | State=00 | Count= 9 | next=0 | g=1 | o=0 | G=0001 | O=0000 | R=1110
+T=531000 | t=1001 | Reset=0 | State=00 | Count=10 | next=0 | g=1 | o=0 | G=0001 | O=0000 | R=1110
+T=533000 | t=1001 | Reset=0 | State=00 | Count=11 | next=0 | g=1 | o=0 | G=0001 | O=0000 | R=1110
+T=535000 | t=1001 | Reset=0 | State=00 | Count=12 | next=0 | g=1 | o=0 | G=0001 | O=0000 | R=1110
+T=537000 | t=1001 | Reset=0 | State=00 | Count=13 | next=0 | g=1 | o=0 | G=0001 | O=0000 | R=1110
+T=539000 | t=1001 | Reset=0 | State=00 | Count=14 | next=0 | g=1 | o=0 | G=0001 | O=0000 | R=1110
+T=541000 | t=1001 | Reset=0 | State=00 | Count=15 | next=0 | g=1 | o=0 | G=0001 | O=0000 | R=1110
+T=543000 | t=1001 | Reset=0 | State=00 | Count=16 | next=0 | g=1 | o=0 | G=0001 | O=0000 | R=1110
+T=545000 | t=1001 | Reset=0 | State=00 | Count=17 | next=0 | g=1 | o=0 | G=0001 | O=0000 | R=1110
+T=547000 | t=1001 | Reset=0 | State=00 | Count=18 | next=0 | g=1 | o=0 | G=0001 | O=0000 | R=1110
+T=549000 | t=1001 | Reset=0 | State=00 | Count=19 | next=0 | g=1 | o=0 | G=0001 | O=0000 | R=1110
+T=551000 | t=1001 | Reset=0 | State=00 | Count=20 | next=0 | g=1 | o=0 | G=0001 | O=0000 | R=1110
+T=553000 | t=1001 | Reset=0 | State=00 | Count=21 | next=0 | g=1 | o=0 | G=0001 | O=0000 | R=1110
+T=555000 | t=1001 | Reset=0 | State=00 | Count=22 | next=0 | g=1 | o=0 | G=0001 | O=0000 | R=1110
+T=557000 | t=1001 | Reset=0 | State=00 | Count=23 | next=0 | g=1 | o=0 | G=0001 | O=0000 | R=1110
+T=559000 | t=1001 | Reset=0 | State=00 | Count=24 | next=0 | g=1 | o=0 | G=0001 | O=0000 | R=1110
+T=561000 | t=1001 | Reset=0 | State=00 | Count=25 | next=0 | g=1 | o=0 | G=0001 | O=0000 | R=1110
+T=563000 | t=1001 | Reset=0 | State=00 | Count=26 | next=0 | g=1 | o=0 | G=0001 | O=0000 | R=1110
+T=565000 | t=1001 | Reset=0 | State=00 | Count=27 | next=0 | g=1 | o=0 | G=0001 | O=0000 | R=1110
+T=567000 | t=1001 | Reset=0 | State=00 | Count=28 | next=0 | g=1 | o=0 | G=0001 | O=0000 | R=1110
+T=569000 | t=1001 | Reset=0 | State=00 | Count=29 | next=0 | g=1 | o=0 | G=0001 | O=0000 | R=1110
+T=571000 | t=1001 | Reset=0 | State=00 | Count=30 | next=0 | g=1 | o=0 | G=0001 | O=0000 | R=1110
+T=573000 | t=1001 | Reset=0 | State=00 | Count=31 | next=0 | g=1 | o=0 | G=0001 | O=0000 | R=1110
+T=575000 | t=1001 | Reset=0 | State=00 | Count=32 | next=0 | g=1 | o=0 | G=0001 | O=0000 | R=1110
+T=577000 | t=1001 | Reset=0 | State=00 | Count=33 | next=0 | g=1 | o=0 | G=0001 | O=0000 | R=1110
+T=579000 | t=1001 | Reset=0 | State=00 | Count=34 | next=0 | g=1 | o=0 | G=0001 | O=0000 | R=1110
+T=581000 | t=1001 | Reset=0 | State=00 | Count=35 | next=0 | g=1 | o=0 | G=0001 | O=0000 | R=1110
+T=583000 | t=1001 | Reset=0 | State=00 | Count=36 | next=0 | g=1 | o=0 | G=0001 | O=0000 | R=1110
+T=585000 | t=1001 | Reset=0 | State=00 | Count=37 | next=0 | g=1 | o=0 | G=0001 | O=0000 | R=1110
+T=587000 | t=1001 | Reset=0 | State=00 | Count=38 | next=0 | g=1 | o=0 | G=0001 | O=0000 | R=1110
+T=589000 | t=1001 | Reset=0 | State=00 | Count=39 | next=0 | g=1 | o=0 | G=0001 | O=0000 | R=1110
+T=591000 | t=1001 | Reset=0 | State=00 | Count=40 | next=0 | g=1 | o=0 | G=0001 | O=0000 | R=1110
+T=593000 | t=1001 | Reset=0 | State=00 | Count=41 | next=0 | g=1 | o=0 | G=0001 | O=0000 | R=1110
+T=595000 | t=1001 | Reset=0 | State=00 | Count=42 | next=0 | g=1 | o=0 | G=0001 | O=0000 | R=1110
+T=597000 | t=1001 | Reset=0 | State=00 | Count=43 | next=0 | g=1 | o=0 | G=0001 | O=0000 | R=1110
+T=599000 | t=1110 | Reset=0 | State=00 | Count=44 | next=0 | g=1 | o=0 | G=0001 | O=0000 | R=1110
+T=601000 | t=1110 | Reset=0 | State=00 | Count=45 | next=0 | g=1 | o=0 | G=0001 | O=0000 | R=1110
+T=603000 | t=1110 | Reset=0 | State=00 | Count=46 | next=0 | g=1 | o=0 | G=0001 | O=0000 | R=1110
+T=605000 | t=1110 | Reset=0 | State=00 | Count=47 | next=0 | g=1 | o=0 | G=0001 | O=0000 | R=1110
+T=607000 | t=1110 | Reset=0 | State=00 | Count=48 | next=0 | g=1 | o=0 | G=0001 | O=0000 | R=1110
+T=609000 | t=1110 | Reset=0 | State=00 | Count=49 | next=0 | g=1 | o=0 | G=0001 | O=0000 | R=1110
+T=611000 | t=1110 | Reset=0 | State=00 | Count=50 | next=0 | g=1 | o=0 | G=0001 | O=0000 | R=1110
+T=613000 | t=1110 | Reset=0 | State=00 | Count=51 | next=0 | g=0 | o=1 | G=0000 | O=0001 | R=1110
+T=615000 | t=1110 | Reset=0 | State=00 | Count=52 | next=0 | g=0 | o=1 | G=0000 | O=0001 | R=1110
+T=617000 | t=1110 | Reset=0 | State=00 | Count=53 | next=0 | g=0 | o=1 | G=0000 | O=0001 | R=1110
+T=619000 | t=1110 | Reset=0 | State=00 | Count=54 | next=0 | g=0 | o=1 | G=0000 | O=0001 | R=1110
+T=621000 | t=1110 | Reset=0 | State=00 | Count=55 | next=0 | g=0 | o=1 | G=0000 | O=0001 | R=1110
+T=623000 | t=1110 | Reset=0 | State=00 | Count= 0 | next=1 | g=1 | o=0 | G=0001 | O=0000 | R=1110
+T=625000 | t=1110 | Reset=0 | State=01 | Count= 1 | next=0 | g=1 | o=0 | G=0010 | O=0000 | R=1101
+T=627000 | t=1110 | Reset=0 | State=01 | Count= 2 | next=0 | g=1 | o=0 | G=0010 | O=0000 | R=1101
+T=629000 | t=1110 | Reset=0 | State=01 | Count= 3 | next=0 | g=1 | o=0 | G=0010 | O=0000 | R=1101
+T=631000 | t=1110 | Reset=0 | State=01 | Count= 4 | next=0 | g=1 | o=0 | G=0010 | O=0000 | R=1101
+T=633000 | t=1110 | Reset=0 | State=01 | Count= 5 | next=0 | g=1 | o=0 | G=0010 | O=0000 | R=1101
+T=635000 | t=1110 | Reset=0 | State=01 | Count= 6 | next=0 | g=1 | o=0 | G=0010 | O=0000 | R=1101
+T=637000 | t=1110 | Reset=0 | State=01 | Count= 7 | next=0 | g=1 | o=0 | G=0010 | O=0000 | R=1101
+T=639000 | t=1110 | Reset=0 | State=01 | Count= 8 | next=0 | g=1 | o=0 | G=0010 | O=0000 | R=1101
+T=641000 | t=1110 | Reset=0 | State=01 | Count= 9 | next=0 | g=1 | o=0 | G=0010 | O=0000 | R=1101
+T=643000 | t=1110 | Reset=0 | State=01 | Count=10 | next=0 | g=1 | o=0 | G=0010 | O=0000 | R=1101
+T=645000 | t=1110 | Reset=0 | State=01 | Count=11 | next=0 | g=1 | o=0 | G=0010 | O=0000 | R=1101
+T=647000 | t=1110 | Reset=0 | State=01 | Count=12 | next=0 | g=1 | o=0 | G=0010 | O=0000 | R=1101
+T=649000 | t=1110 | Reset=0 | State=01 | Count=13 | next=0 | g=1 | o=0 | G=0010 | O=0000 | R=1101
+T=651000 | t=1110 | Reset=0 | State=01 | Count=14 | next=0 | g=1 | o=0 | G=0010 | O=0000 | R=1101
+T=653000 | t=1110 | Reset=0 | State=01 | Count=15 | next=0 | g=1 | o=0 | G=0010 | O=0000 | R=1101
+T=655000 | t=1110 | Reset=0 | State=01 | Count=16 | next=0 | g=1 | o=0 | G=0010 | O=0000 | R=1101
+T=657000 | t=1110 | Reset=0 | State=01 | Count=17 | next=0 | g=1 | o=0 | G=0010 | O=0000 | R=1101
+T=659000 | t=1110 | Reset=0 | State=01 | Count=18 | next=0 | g=1 | o=0 | G=0010 | O=0000 | R=1101
+T=661000 | t=1110 | Reset=0 | State=01 | Count=19 | next=0 | g=1 | o=0 | G=0010 | O=0000 | R=1101
+T=663000 | t=1110 | Reset=0 | State=01 | Count=20 | next=0 | g=1 | o=0 | G=0010 | O=0000 | R=1101
+T=665000 | t=1110 | Reset=0 | State=01 | Count=21 | next=0 | g=1 | o=0 | G=0010 | O=0000 | R=1101
+T=667000 | t=1110 | Reset=0 | State=01 | Count=22 | next=0 | g=1 | o=0 | G=0010 | O=0000 | R=1101
+T=669000 | t=1110 | Reset=0 | State=01 | Count=23 | next=0 | g=1 | o=0 | G=0010 | O=0000 | R=1101
+T=671000 | t=1110 | Reset=0 | State=01 | Count=24 | next=0 | g=1 | o=0 | G=0010 | O=0000 | R=1101
+T=673000 | t=1110 | Reset=0 | State=01 | Count=25 | next=0 | g=1 | o=0 | G=0010 | O=0000 | R=1101
+T=675000 | t=1110 | Reset=0 | State=01 | Count=26 | next=0 | g=1 | o=0 | G=0010 | O=0000 | R=1101
+T=677000 | t=1110 | Reset=0 | State=01 | Count=27 | next=0 | g=1 | o=0 | G=0010 | O=0000 | R=1101
+T=679000 | t=1110 | Reset=0 | State=01 | Count=28 | next=0 | g=1 | o=0 | G=0010 | O=0000 | R=1101
+T=681000 | t=1110 | Reset=0 | State=01 | Count=29 | next=0 | g=1 | o=0 | G=0010 | O=0000 | R=1101
+T=683000 | t=1110 | Reset=0 | State=01 | Count=30 | next=0 | g=1 | o=0 | G=0010 | O=0000 | R=1101
+T=685000 | t=1110 | Reset=0 | State=01 | Count=31 | next=0 | g=1 | o=0 | G=0010 | O=0000 | R=1101
+T=687000 | t=1110 | Reset=0 | State=01 | Count=32 | next=0 | g=1 | o=0 | G=0010 | O=0000 | R=1101
+T=689000 | t=1110 | Reset=0 | State=01 | Count=33 | next=0 | g=1 | o=0 | G=0010 | O=0000 | R=1101
+T=691000 | t=1110 | Reset=0 | State=01 | Count=34 | next=0 | g=1 | o=0 | G=0010 | O=0000 | R=1101
+T=693000 | t=1110 | Reset=0 | State=01 | Count=35 | next=0 | g=1 | o=0 | G=0010 | O=0000 | R=1101
+T=695000 | t=1110 | Reset=0 | State=01 | Count=36 | next=0 | g=1 | o=0 | G=0010 | O=0000 | R=1101
+T=697000 | t=1110 | Reset=0 | State=01 | Count=37 | next=0 | g=1 | o=0 | G=0010 | O=0000 | R=1101
+T=699000 | t=1110 | Reset=0 | State=01 | Count=38 | next=0 | g=1 | o=0 | G=0010 | O=0000 | R=1101
+T=701000 | t=1110 | Reset=0 | State=01 | Count=39 | next=0 | g=1 | o=0 | G=0010 | O=0000 | R=1101
+T=703000 | t=1110 | Reset=0 | State=01 | Count=40 | next=0 | g=1 | o=0 | G=0010 | O=0000 | R=1101
+T=705000 | t=1110 | Reset=0 | State=01 | Count=41 | next=0 | g=1 | o=0 | G=0010 | O=0000 | R=1101
+T=707000 | t=1110 | Reset=0 | State=01 | Count=42 | next=0 | g=1 | o=0 | G=0010 | O=0000 | R=1101
+T=709000 | t=1110 | Reset=0 | State=01 | Count=43 | next=0 | g=1 | o=0 | G=0010 | O=0000 | R=1101
+T=711000 | t=1110 | Reset=0 | State=01 | Count=44 | next=0 | g=1 | o=0 | G=0010 | O=0000 | R=1101
+T=713000 | t=1110 | Reset=0 | State=01 | Count=45 | next=0 | g=1 | o=0 | G=0010 | O=0000 | R=1101
+T=715000 | t=1110 | Reset=0 | State=01 | Count=46 | next=0 | g=1 | o=0 | G=0010 | O=0000 | R=1101
+T=717000 | t=1110 | Reset=0 | State=01 | Count=47 | next=0 | g=1 | o=0 | G=0010 | O=0000 | R=1101
+T=719000 | t=1110 | Reset=0 | State=01 | Count=48 | next=0 | g=1 | o=0 | G=0010 | O=0000 | R=1101
+T=721000 | t=1110 | Reset=0 | State=01 | Count=49 | next=0 | g=1 | o=0 | G=0010 | O=0000 | R=1101
+T=723000 | t=1110 | Reset=0 | State=01 | Count=50 | next=0 | g=1 | o=0 | G=0010 | O=0000 | R=1101
+T=725000 | t=1110 | Reset=0 | State=01 | Count=51 | next=0 | g=0 | o=1 | G=0000 | O=0010 | R=1101
+T=727000 | t=1110 | Reset=0 | State=01 | Count=52 | next=0 | g=0 | o=1 | G=0000 | O=0010 | R=1101
+T=729000 | t=1110 | Reset=0 | State=01 | Count=53 | next=0 | g=0 | o=1 | G=0000 | O=0010 | R=1101
+T=731000 | t=1110 | Reset=0 | State=01 | Count=54 | next=0 | g=0 | o=1 | G=0000 | O=0010 | R=1101
+T=733000 | t=1110 | Reset=0 | State=01 | Count=55 | next=0 | g=0 | o=1 | G=0000 | O=0010 | R=1101
+T=735000 | t=1110 | Reset=0 | State=01 | Count= 0 | next=1 | g=1 | o=0 | G=0010 | O=0000 | R=1101
+T=737000 | t=1110 | Reset=0 | State=10 | Count= 1 | next=0 | g=1 | o=0 | G=0100 | O=0000 | R=1011
+T=739000 | t=1110 | Reset=0 | State=10 | Count= 2 | next=0 | g=1 | o=0 | G=0100 | O=0000 | R=1011
+T=741000 | t=1110 | Reset=0 | State=10 | Count= 3 | next=0 | g=1 | o=0 | G=0100 | O=0000 | R=1011
+T=743000 | t=1110 | Reset=0 | State=10 | Count= 4 | next=0 | g=1 | o=0 | G=0100 | O=0000 | R=1011
+T=745000 | t=1110 | Reset=0 | State=10 | Count= 5 | next=0 | g=1 | o=0 | G=0100 | O=0000 | R=1011
+T=747000 | t=1110 | Reset=0 | State=10 | Count= 6 | next=0 | g=1 | o=0 | G=0100 | O=0000 | R=1011
+T=749000 | t=1110 | Reset=0 | State=10 | Count= 7 | next=0 | g=1 | o=0 | G=0100 | O=0000 | R=1011
+T=751000 | t=1110 | Reset=0 | State=10 | Count= 8 | next=0 | g=1 | o=0 | G=0100 | O=0000 | R=1011
+T=753000 | t=1110 | Reset=0 | State=10 | Count= 9 | next=0 | g=1 | o=0 | G=0100 | O=0000 | R=1011
+T=755000 | t=1110 | Reset=0 | State=10 | Count=10 | next=0 | g=1 | o=0 | G=0100 | O=0000 | R=1011
+T=757000 | t=1110 | Reset=0 | State=10 | Count=11 | next=0 | g=1 | o=0 | G=0100 | O=0000 | R=1011
+T=759000 | t=1110 | Reset=0 | State=10 | Count=12 | next=0 | g=1 | o=0 | G=0100 | O=0000 | R=1011
+T=761000 | t=1110 | Reset=0 | State=10 | Count=13 | next=0 | g=1 | o=0 | G=0100 | O=0000 | R=1011
+T=763000 | t=1110 | Reset=0 | State=10 | Count=14 | next=0 | g=1 | o=0 | G=0100 | O=0000 | R=1011
+T=765000 | t=1110 | Reset=0 | State=10 | Count=15 | next=0 | g=1 | o=0 | G=0100 | O=0000 | R=1011
+T=767000 | t=1110 | Reset=0 | State=10 | Count=16 | next=0 | g=1 | o=0 | G=0100 | O=0000 | R=1011
+T=769000 | t=1110 | Reset=0 | State=10 | Count=17 | next=0 | g=1 | o=0 | G=0100 | O=0000 | R=1011
+T=771000 | t=1110 | Reset=0 | State=10 | Count=18 | next=0 | g=1 | o=0 | G=0100 | O=0000 | R=1011
+T=773000 | t=1110 | Reset=0 | State=10 | Count=19 | next=0 | g=1 | o=0 | G=0100 | O=0000 | R=1011
+T=775000 | t=1110 | Reset=0 | State=10 | Count=20 | next=0 | g=1 | o=0 | G=0100 | O=0000 | R=1011
+T=777000 | t=1111 | Reset=0 | State=10 | Count=21 | next=0 | g=1 | o=0 | G=0100 | O=0000 | R=1011
+T=779000 | t=1111 | Reset=0 | State=10 | Count=22 | next=0 | g=1 | o=0 | G=0100 | O=0000 | R=1011
+T=781000 | t=1111 | Reset=0 | State=10 | Count=23 | next=0 | g=1 | o=0 | G=0100 | O=0000 | R=1011
+T=783000 | t=1111 | Reset=0 | State=10 | Count=24 | next=0 | g=1 | o=0 | G=0100 | O=0000 | R=1011
+T=785000 | t=1111 | Reset=0 | State=10 | Count=25 | next=0 | g=1 | o=0 | G=0100 | O=0000 | R=1011
+T=787000 | t=1111 | Reset=0 | State=10 | Count=26 | next=0 | g=1 | o=0 | G=0100 | O=0000 | R=1011
+T=789000 | t=1111 | Reset=0 | State=10 | Count=27 | next=0 | g=1 | o=0 | G=0100 | O=0000 | R=1011
+T=791000 | t=1111 | Reset=0 | State=10 | Count=28 | next=0 | g=1 | o=0 | G=0100 | O=0000 | R=1011
+T=793000 | t=1111 | Reset=0 | State=10 | Count=29 | next=0 | g=1 | o=0 | G=0100 | O=0000 | R=1011
+T=795000 | t=1111 | Reset=0 | State=10 | Count=30 | next=0 | g=1 | o=0 | G=0100 | O=0000 | R=1011
+T=797000 | t=1111 | Reset=0 | State=10 | Count=31 | next=0 | g=1 | o=0 | G=0100 | O=0000 | R=1011
+T=799000 | t=1111 | Reset=0 | State=10 | Count=32 | next=0 | g=1 | o=0 | G=0100 | O=0000 | R=1011
+T=801000 | t=1111 | Reset=0 | State=10 | Count=33 | next=0 | g=1 | o=0 | G=0100 | O=0000 | R=1011
+T=803000 | t=1111 | Reset=0 | State=10 | Count=34 | next=0 | g=1 | o=0 | G=0100 | O=0000 | R=1011
+T=805000 | t=1111 | Reset=0 | State=10 | Count=35 | next=0 | g=1 | o=0 | G=0100 | O=0000 | R=1011
+T=807000 | t=1111 | Reset=0 | State=10 | Count=36 | next=0 | g=1 | o=0 | G=0100 | O=0000 | R=1011
+T=809000 | t=1111 | Reset=0 | State=10 | Count=37 | next=0 | g=1 | o=0 | G=0100 | O=0000 | R=1011
+T=811000 | t=1111 | Reset=0 | State=10 | Count=38 | next=0 | g=1 | o=0 | G=0100 | O=0000 | R=1011
+T=813000 | t=1111 | Reset=0 | State=10 | Count=39 | next=0 | g=1 | o=0 | G=0100 | O=0000 | R=1011
+T=815000 | t=1111 | Reset=0 | State=10 | Count=40 | next=0 | g=1 | o=0 | G=0100 | O=0000 | R=1011
+T=817000 | t=1111 | Reset=0 | State=10 | Count=41 | next=0 | g=1 | o=0 | G=0100 | O=0000 | R=1011
+T=819000 | t=1111 | Reset=0 | State=10 | Count=42 | next=0 | g=1 | o=0 | G=0100 | O=0000 | R=1011
+T=821000 | t=1111 | Reset=0 | State=10 | Count=43 | next=0 | g=1 | o=0 | G=0100 | O=0000 | R=1011
+T=823000 | t=1111 | Reset=0 | State=10 | Count=44 | next=0 | g=1 | o=0 | G=0100 | O=0000 | R=1011
+T=825000 | t=1111 | Reset=0 | State=10 | Count=45 | next=0 | g=1 | o=0 | G=0100 | O=0000 | R=1011
+T=827000 | t=1111 | Reset=0 | State=10 | Count=46 | next=0 | g=1 | o=0 | G=0100 | O=0000 | R=1011
+T=829000 | t=1111 | Reset=0 | State=10 | Count=47 | next=0 | g=1 | o=0 | G=0100 | O=0000 | R=1011
+T=831000 | t=1111 | Reset=0 | State=10 | Count=48 | next=0 | g=1 | o=0 | G=0100 | O=0000 | R=1011
+T=833000 | t=1111 | Reset=0 | State=10 | Count=49 | next=0 | g=1 | o=0 | G=0100 | O=0000 | R=1011
+T=835000 | t=1111 | Reset=0 | State=10 | Count=50 | next=0 | g=1 | o=0 | G=0100 | O=0000 | R=1011
+T=837000 | t=1111 | Reset=0 | State=10 | Count=51 | next=0 | g=0 | o=1 | G=0000 | O=0100 | R=1011
+T=839000 | t=1111 | Reset=0 | State=10 | Count=52 | next=0 | g=0 | o=1 | G=0000 | O=0100 | R=1011
+T=841000 | t=1111 | Reset=0 | State=10 | Count=53 | next=0 | g=0 | o=1 | G=0000 | O=0100 | R=1011
+T=843000 | t=1111 | Reset=0 | State=10 | Count=54 | next=0 | g=0 | o=1 | G=0000 | O=0100 | R=1011
+T=845000 | t=1111 | Reset=0 | State=10 | Count=55 | next=0 | g=0 | o=1 | G=0000 | O=0100 | R=1011
+T=847000 | t=1111 | Reset=0 | State=10 | Count= 0 | next=1 | g=1 | o=0 | G=0100 | O=0000 | R=1011
+T=849000 | t=1111 | Reset=0 | State=11 | Count= 1 | next=0 | g=1 | o=0 | G=1000 | O=0000 | R=0111
+T=851000 | t=1111 | Reset=0 | State=11 | Count= 2 | next=0 | g=1 | o=0 | G=1000 | O=0000 | R=0111
+T=853000 | t=1111 | Reset=0 | State=11 | Count= 3 | next=0 | g=1 | o=0 | G=1000 | O=0000 | R=0111
+T=855000 | t=1111 | Reset=0 | State=11 | Count= 4 | next=0 | g=1 | o=0 | G=1000 | O=0000 | R=0111
+T=857000 | t=1111 | Reset=0 | State=11 | Count= 5 | next=0 | g=1 | o=0 | G=1000 | O=0000 | R=0111
+T=859000 | t=1111 | Reset=0 | State=11 | Count= 6 | next=0 | g=1 | o=0 | G=1000 | O=0000 | R=0111
+T=861000 | t=1111 | Reset=0 | State=11 | Count= 7 | next=0 | g=1 | o=0 | G=1000 | O=0000 | R=0111
+T=863000 | t=1111 | Reset=0 | State=11 | Count= 8 | next=0 | g=1 | o=0 | G=1000 | O=0000 | R=0111
+T=865000 | t=1111 | Reset=0 | State=11 | Count= 9 | next=0 | g=1 | o=0 | G=1000 | O=0000 | R=0111
+T=867000 | t=1111 | Reset=0 | State=11 | Count=10 | next=0 | g=1 | o=0 | G=1000 | O=0000 | R=0111
+T=869000 | t=1111 | Reset=0 | State=11 | Count=11 | next=0 | g=1 | o=0 | G=1000 | O=0000 | R=0111
+T=871000 | t=1111 | Reset=0 | State=11 | Count=12 | next=0 | g=1 | o=0 | G=1000 | O=0000 | R=0111
+T=873000 | t=1111 | Reset=0 | State=11 | Count=13 | next=0 | g=1 | o=0 | G=1000 | O=0000 | R=0111
+T=875000 | t=1111 | Reset=0 | State=11 | Count=14 | next=0 | g=1 | o=0 | G=1000 | O=0000 | R=0111
+T=877000 | t=1111 | Reset=0 | State=11 | Count=15 | next=0 | g=1 | o=0 | G=1000 | O=0000 | R=0111
+T=879000 | t=1111 | Reset=0 | State=11 | Count=16 | next=0 | g=1 | o=0 | G=1000 | O=0000 | R=0111
+T=881000 | t=1111 | Reset=0 | State=11 | Count=17 | next=0 | g=1 | o=0 | G=1000 | O=0000 | R=0111
+T=883000 | t=1111 | Reset=0 | State=11 | Count=18 | next=0 | g=1 | o=0 | G=1000 | O=0000 | R=0111
+T=885000 | t=1111 | Reset=0 | State=11 | Count=19 | next=0 | g=1 | o=0 | G=1000 | O=0000 | R=0111
+T=887000 | t=1111 | Reset=0 | State=11 | Count=20 | next=0 | g=1 | o=0 | G=1000 | O=0000 | R=0111
+T=889000 | t=1111 | Reset=0 | State=11 | Count=21 | next=0 | g=1 | o=0 | G=1000 | O=0000 | R=0111
+T=891000 | t=1111 | Reset=0 | State=11 | Count=22 | next=0 | g=1 | o=0 | G=1000 | O=0000 | R=0111
+T=893000 | t=1111 | Reset=0 | State=11 | Count=23 | next=0 | g=1 | o=0 | G=1000 | O=0000 | R=0111
+T=895000 | t=1111 | Reset=0 | State=11 | Count=24 | next=0 | g=1 | o=0 | G=1000 | O=0000 | R=0111
+T=897000 | t=1111 | Reset=0 | State=11 | Count=25 | next=0 | g=1 | o=0 | G=1000 | O=0000 | R=0111
+T=899000 | t=1111 | Reset=0 | State=11 | Count=26 | next=0 | g=1 | o=0 | G=1000 | O=0000 | R=0111
+T=901000 | t=1111 | Reset=0 | State=11 | Count=27 | next=0 | g=1 | o=0 | G=1000 | O=0000 | R=0111
+T=903000 | t=1111 | Reset=0 | State=11 | Count=28 | next=0 | g=1 | o=0 | G=1000 | O=0000 | R=0111
+T=905000 | t=1111 | Reset=0 | State=11 | Count=29 | next=0 | g=1 | o=0 | G=1000 | O=0000 | R=0111
+T=907000 | t=1111 | Reset=0 | State=11 | Count=30 | next=0 | g=1 | o=0 | G=1000 | O=0000 | R=0111
+T=909000 | t=1111 | Reset=0 | State=11 | Count=31 | next=0 | g=1 | o=0 | G=1000 | O=0000 | R=0111
+T=911000 | t=1111 | Reset=0 | State=11 | Count=32 | next=0 | g=1 | o=0 | G=1000 | O=0000 | R=0111
+T=913000 | t=1111 | Reset=0 | State=11 | Count=33 | next=0 | g=1 | o=0 | G=1000 | O=0000 | R=0111
+T=915000 | t=1111 | Reset=0 | State=11 | Count=34 | next=0 | g=1 | o=0 | G=1000 | O=0000 | R=0111
+T=917000 | t=1111 | Reset=0 | State=11 | Count=35 | next=0 | g=1 | o=0 | G=1000 | O=0000 | R=0111
+T=919000 | t=1111 | Reset=0 | State=11 | Count=36 | next=0 | g=1 | o=0 | G=1000 | O=0000 | R=0111
+T=921000 | t=1111 | Reset=0 | State=11 | Count=37 | next=0 | g=1 | o=0 | G=1000 | O=0000 | R=0111
+T=923000 | t=1111 | Reset=0 | State=11 | Count=38 | next=0 | g=1 | o=0 | G=1000 | O=0000 | R=0111
+T=925000 | t=1111 | Reset=0 | State=11 | Count=39 | next=0 | g=1 | o=0 | G=1000 | O=0000 | R=0111
+T=927000 | t=1111 | Reset=0 | State=11 | Count=40 | next=0 | g=1 | o=0 | G=1000 | O=0000 | R=0111
+T=929000 | t=1111 | Reset=0 | State=11 | Count=41 | next=0 | g=1 | o=0 | G=1000 | O=0000 | R=0111
+T=931000 | t=1111 | Reset=0 | State=11 | Count=42 | next=0 | g=1 | o=0 | G=1000 | O=0000 | R=0111
+T=933000 | t=1111 | Reset=0 | State=11 | Count=43 | next=0 | g=1 | o=0 | G=1000 | O=0000 | R=0111
+T=935000 | t=1111 | Reset=0 | State=11 | Count=44 | next=0 | g=1 | o=0 | G=1000 | O=0000 | R=0111
+T=937000 | t=1111 | Reset=0 | State=11 | Count=45 | next=0 | g=1 | o=0 | G=1000 | O=0000 | R=0111
+T=939000 | t=1111 | Reset=0 | State=11 | Count=46 | next=0 | g=1 | o=0 | G=1000 | O=0000 | R=0111
+T=941000 | t=1111 | Reset=0 | State=11 | Count=47 | next=0 | g=1 | o=0 | G=1000 | O=0000 | R=0111
+T=943000 | t=1111 | Reset=0 | State=11 | Count=48 | next=0 | g=1 | o=0 | G=1000 | O=0000 | R=0111
+T=945000 | t=1111 | Reset=0 | State=11 | Count=49 | next=0 | g=1 | o=0 | G=1000 | O=0000 | R=0111
+T=947000 | t=1111 | Reset=0 | State=11 | Count=50 | next=0 | g=1 | o=0 | G=1000 | O=0000 | R=0111
+T=949000 | t=1111 | Reset=0 | State=11 | Count=51 | next=0 | g=0 | o=1 | G=0000 | O=1000 | R=0111
+T=951000 | t=1111 | Reset=0 | State=11 | Count=52 | next=0 | g=0 | o=1 | G=0000 | O=1000 | R=0111
+T=953000 | t=1111 | Reset=0 | State=11 | Count=53 | next=0 | g=0 | o=1 | G=0000 | O=1000 | R=0111
+T=955000 | t=1111 | Reset=0 | State=11 | Count=54 | next=0 | g=0 | o=1 | G=0000 | O=1000 | R=0111
+T=957000 | t=1111 | Reset=0 | State=11 | Count=55 | next=0 | g=0 | o=1 | G=0000 | O=1000 | R=0111
+T=959000 | t=1111 | Reset=0 | State=11 | Count= 0 | next=1 | g=1 | o=0 | G=1000 | O=0000 | R=0111
+T=961000 | t=1111 | Reset=0 | State=00 | Count= 1 | next=0 | g=1 | o=0 | G=0001 | O=0000 | R=1110
+T=963000 | t=1111 | Reset=0 | State=00 | Count= 2 | next=0 | g=1 | o=0 | G=0001 | O=0000 | R=1110
+T=965000 | t=1111 | Reset=0 | State=00 | Count= 3 | next=0 | g=1 | o=0 | G=0001 | O=0000 | R=1110
+T=967000 | t=1111 | Reset=0 | State=00 | Count= 4 | next=0 | g=1 | o=0 | G=0001 | O=0000 | R=1110
+T=969000 | t=1111 | Reset=0 | State=00 | Count= 5 | next=0 | g=1 | o=0 | G=0001 | O=0000 | R=1110
+T=971000 | t=1111 | Reset=0 | State=00 | Count= 6 | next=0 | g=1 | o=0 | G=0001 | O=0000 | R=1110
+T=973000 | t=1111 | Reset=0 | State=00 | Count= 7 | next=0 | g=1 | o=0 | G=0001 | O=0000 | R=1110
+T=975000 | t=1111 | Reset=0 | State=00 | Count= 8 | next=0 | g=1 | o=0 | G=0001 | O=0000 | R=1110
+T=977000 | t=1111 | Reset=0 | State=00 | Count= 9 | next=0 | g=1 | o=0 | G=0001 | O=0000 | R=1110
+T=979000 | t=1111 | Reset=0 | State=00 | Count=10 | next=0 | g=1 | o=0 | G=0001 | O=0000 | R=1110
+T=981000 | t=1111 | Reset=0 | State=00 | Count=11 | next=0 | g=1 | o=0 | G=0001 | O=0000 | R=1110
+T=983000 | t=1111 | Reset=0 | State=00 | Count=12 | next=0 | g=1 | o=0 | G=0001 | O=0000 | R=1110
+T=985000 | t=1111 | Reset=0 | State=00 | Count=13 | next=0 | g=1 | o=0 | G=0001 | O=0000 | R=1110
+T=987000 | t=1111 | Reset=0 | State=00 | Count=14 | next=0 | g=1 | o=0 | G=0001 | O=0000 | R=1110
+T=989000 | t=1111 | Reset=0 | State=00 | Count=15 | next=0 | g=1 | o=0 | G=0001 | O=0000 | R=1110
+T=991000 | t=1111 | Reset=0 | State=00 | Count=16 | next=0 | g=1 | o=0 | G=0001 | O=0000 | R=1110
+T=993000 | t=1111 | Reset=0 | State=00 | Count=17 | next=0 | g=1 | o=0 | G=0001 | O=0000 | R=1110
+T=995000 | t=1111 | Reset=0 | State=00 | Count=18 | next=0 | g=1 | o=0 | G=0001 | O=0000 | R=1110
+T=997000 | t=1111 | Reset=0 | State=00 | Count=19 | next=0 | g=1 | o=0 | G=0001 | O=0000 | R=1110
+T=999000 | t=1111 | Reset=0 | State=00 | Count=20 | next=0 | g=1 | o=0 | G=0001 | O=0000 | R=1110
