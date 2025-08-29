@@ -1,4 +1,4 @@
-`timescale 1ns / 1ps
+`timescale 1ns / 100ps
 
 module uart_tx(in,start,clk,reset,o,busy); 
   input [9:0]in;
@@ -7,7 +7,7 @@ module uart_tx(in,start,clk,reset,o,busy);
   reg [3:0]count;//counter to track no of bits transmitted
   reg [2:0]state; //holds state of the UART 
   reg parity; //even parity not configurable
-  parameter IDLE=3'b000,START=3'b001,DATA=3'b010,STOP=3'b011, PARITY=3'b100; 
+  parameter IDLE=3'b000,START=3'b001,DATA=3'b010,STOP=3'b100, PARITY=3'b011; 
   parameter data_size = 8; //configure upto size 10
   reg [9:0]data; 
   reg baud_tick;
@@ -15,7 +15,7 @@ module uart_tx(in,start,clk,reset,o,busy);
   
   //clk = 10kHz
 
-  parameter baud_rate = 1000; //baud rate
+  parameter baud_rate = 2000; //baud rate
   parameter div = 10000/baud_rate; //clk/baud rate
   always @(posedge clk)
     begin
