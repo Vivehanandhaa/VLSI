@@ -73,19 +73,19 @@ module uart_rx(clk,in,reset,parity,busy,data);
               end 
             DATA:
               if(baud_tick) 
-              begin
-              //  data<=data>>1;
-                if(count<data_size+1)
-                  begin
-                    data[count-1]<=in; //data_size-1
-                    state<=DATA;
-                    count<=count+1;
-                  end
-                else
+              begin          
+                if(count==data_size+1)
                   begin
                     state<= PARITY;
-                    //data<=data>>1;
+                    
                   end
+                else        
+                 begin
+                   data[data_size]<=in;
+                    state<=DATA;                    
+                  end
+                count<=count+1;
+                data=data>>1;
               end
             PARITY:
               if(baud_tick)
@@ -103,3 +103,4 @@ module uart_rx(clk,in,reset,parity,busy,data);
         end 
     end
 endmodule
+  
