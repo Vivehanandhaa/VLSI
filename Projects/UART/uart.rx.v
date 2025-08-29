@@ -1,4 +1,24 @@
-`timescale 1ns / 1ps
+`timescale 1ns / 100ps
+//////////////////////////////////////////////////////////////////////////////////
+// Company: 
+// Engineer: 
+// 
+// Create Date: 29.08.2025 15:36:50
+// Design Name: 
+// Module Name: uart_rx
+// Project Name: 
+// Target Devices: 
+// Tool Versions: 
+// Description: 
+// 
+// Dependencies: 
+// 
+// Revision:
+// Revision 0.01 - File Created
+// Additional Comments:
+// 
+//////////////////////////////////////////////////////////////////////////////////
+
 module uart_rx(clk,in,reset,parity,busy,data);
   input in, clk, reset; 
   output reg [9:0]data;
@@ -6,14 +26,14 @@ module uart_rx(clk,in,reset,parity,busy,data);
   output reg busy;  //busy is flag will be high throughout reception 
   reg [3:0]count;//counter to track no of bits transmitted
   reg [2:0]state; //holds state of the UART 
-  parameter IDLE=3'b000,START=3'b001,DATA=3'b010,STOP=3'b011, PARITY=3'b100; 
+  parameter IDLE=3'b000,START=3'b001,DATA=3'b010,STOP=3'b100, PARITY=3'b011; 
   parameter data_size =8; //configure upto size 10
    
   reg baud_tick;
   reg half_baud;
   reg [23:0]baud_count;
     
-  parameter baud_rate = 1000; //baud rate
+  parameter baud_rate =2000; //baud rate
   parameter div = 10000/baud_rate; //clk/baud rate
   always @(posedge clk)
     begin
@@ -73,25 +93,26 @@ module uart_rx(clk,in,reset,parity,busy,data);
               end 
             DATA:
               if(baud_tick) 
-              begin          
-                if(count==data_size+1)
+              begin
+              //  data<=data>>1;
+                if(count<data_size+1)
+                  begin
+                    data[count-1]<=in; //data_size-1
+                    state<=DATA;
+                    count<=count+1;
+                  end
+                else
                   begin
                     state<= PARITY;
-                    
+                    //data<=data>>1;
                   end
-                else        
-                 begin
-                   data[data_size]<=in;
-                    state<=DATA;                    
-                  end
-                count<=count+1;
-                data=data>>1;
               end
             PARITY:
               if(baud_tick)
               begin
                 parity<=in;
-                state<=STOP;            
+                state<=STOP;
+                count<=0;          
               end 
             STOP:
               if(baud_tick)
@@ -103,4 +124,3 @@ module uart_rx(clk,in,reset,parity,busy,data);
         end 
     end
 endmodule
-  
